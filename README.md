@@ -39,4 +39,4 @@ This CLI application uses Node and MySQL to allow a user to view and manage depa
 - Make your selections from the menu and respond to the prompts to see how the database can be viewed and changed through the CLI application.
 
 ## Video Walkthrough
-A video walkthrough of the application functionality is available:
+A video walkthrough of the application functionality is available: https://drive.google.com/file/d/1vcIvNop1IMD2NpSc0QhDITT0DyHM3-vT/view?usp=drive_link
